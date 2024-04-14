@@ -6,7 +6,7 @@
 <div>
    <a href="https://github.com/devemdobro">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WitalonLopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WitlaonLopes&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WitalonLopes&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 ## Tecnologias que eu uso no meu dia
