@@ -3,7 +3,7 @@
 </p>
 
 #### Sobe mim
-2 anos de experiência no desenvolvimento de projetos com o uso de tecnologias Web, automações
+1 anos de experiência no desenvolvimento de projetos com o uso de tecnologias Web.
 
 ### New GitHub 
 
