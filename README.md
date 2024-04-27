@@ -5,6 +5,12 @@
 #### Sobe mim
 1 anos de experiência no desenvolvimento de projetos com o uso de tecnologias Web.
 
+### Contatos
+
+<a href="https://www.linkedin.com/in/witalon-teixeira-lopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/witalon_lopes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:witalonlopez@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo+gmail&logoColor=white"></a>
+
 ### New GitHub 
 
 <div>
@@ -31,9 +37,3 @@
 </div>
 
 Apaixonado por Tecnolagia, Educação e por mudar o mundo através do meu codigo! :)
-
-### Contatos
-
-<a href="https://www.linkedin.com/in/witalon-teixeira-lopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/witalon_lopes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:witalonlopez@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo+gmail&logoColor=white"></a>
