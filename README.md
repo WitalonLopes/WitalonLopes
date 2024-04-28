@@ -3,15 +3,15 @@
 </p>
 
 #### Sobe mim
-1 anos de experiência no desenvolvimento de projetos com o uso de tecnologias Web.
+1 anos de experiência no desenvolvimento de projetos com o uso de tecnologias Web. :octocat:
 
-### Contatos
+### Contatos :handshake:
 
 <a href="https://www.linkedin.com/in/witalon-teixeira-lopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/witalon_lopes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:witalonlopez@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo+gmail&logoColor=white"></a>
 
-### New GitHub 
+### New GitHub :octocat:
 
 <div>
    <a href="https://github.com/devemdobro">
@@ -19,7 +19,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WitalonLopes&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso no meu dia :computer:
 <div style="display: inline_block"> <br/>
   <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
@@ -38,4 +38,4 @@
 
 <hr>
 
-Apaixonado por Tecnolagia, e quero mudar o mundo através dos meus códigos! :)
+Apaixonado por Tecnolagia, e quero mudar o mundo através dos meus códigos! :grin:
