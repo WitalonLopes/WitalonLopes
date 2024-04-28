@@ -3,7 +3,7 @@
 </p>
 
 #### Sobe mim
-1 anos de experiência no desenvolvimento de projetos com o uso de tecnologias We. :octocat:
+1 anos de experiência no desenvolvimento de projetos com o uso de tecnologias Web. :octocat:
 
 ### Contatos :handshake:
 
