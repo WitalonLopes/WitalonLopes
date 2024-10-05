@@ -36,7 +36,6 @@
 ![React](https://img.shields.io/badge/react%20-%23282525.svg?style=for-the-badge&logo=react&logoColor=%2361DBFB)
 <br>
 ![TypeScript](https://img.shields.io/badge/TypeScript%20-%233178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
